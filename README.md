@@ -10,8 +10,8 @@
 
   • Jmeter Script for APIs  > Create User, Deposit, Withdrawal and Get Balance APIs
     Added Sample load testing script where I tested 20 virtual users and mentioned the same in Thread Group, attaching Summary report and Listener > View       Results Tree
-  <img width="1508" alt="Screenshot 2022-10-04 at 6 09 47 PM" src="https://user-images.githubusercontent.com/54873896/193821581-1c14f1d2-d3bb-4637-bc48-   8572b05d8218.png">
 <img width="1472" alt="Screenshot 2022-10-04 at 6 09 33 PM" src="https://user-images.githubusercontent.com/54873896/193821652-a106efb7-2127-4618-83a0-e7392f9ea6ff.png">
+<img width="1508" alt="Screenshot 2022-10-04 at 6 09 47 PM" src="https://user-images.githubusercontent.com/54873896/193823540-84954014-9b02-4264-82e7-1bd77f1023ea.png">
 
 3. TestData.csv 
 
